@@ -377,3 +377,136 @@ Matter Receiver
             Pulsating Crystal i Sag Mill
                 Diamond
                 8 Pulsating Iron Nugget
+
+
+Mass Fabricator
+    2 Advanced Machine Casings
+        8 Steel Plates
+        4 Carbon Plates
+            32 Coal
+        4 Advanced Alloy
+            6 Iron Plates
+            6 Bronze Plates
+            6 Tin Plates
+        2 Basic Machine Casing
+            16 Iron Plates
+    2 Advanced Circuits
+        8 Empowered Restonia Crystal (+1)
+            1 Restonia Crystal Block
+            1 Garnet
+            1 Rose Red
+            1 Ardite
+            1 Resonant Redstone Crystal
+        4 Empowered Palis Crystal (+ 5)
+             1 Palis Crystal Block
+             1 Fish
+             1 Cobalt
+             1 Blue Slime Crystal
+             1 Prismarine
+        4 Glowstone
+        2 Electronic Circuit
+             2 Iron Plates
+             12 Insulated Copper Cable
+             4 Redstone
+    1 Lapotron Crystal
+        6 Lapis Dust
+        2 Advanced Circuits
+            8 Empowered Restonia Crystal (+1)
+                1 Restonia Crystal Block
+                1 Garnet
+                1 Rose Red
+                1 Ardite
+                1 Resonant Redstone Crystal
+            4 Empowered Palis Crystal (+ 5)
+                1 Palis Crystal Block
+                1 Fish
+                1 Cobalt
+                1 Blue Slime Crystal
+                1 Prismarine
+            4 Glowstone
+            2 Electronic Circuit
+                2 Iron Plates
+                12 Insulated Copper Cable
+                4 Redstone
+        1 Energy Crystal
+            9 Energium Dust
+                5 Redstone
+                4 Diamond Dust
+    4 Glowstone
+
+Scanner
+    2 Advanced Circuits
+        8 Empowered Restonia Crystal (+1)
+            1 Restonia Crystal Block
+            1 Garnet
+            1 Rose Red
+            1 Ardite
+            1 Resonant Redstone Crystal
+        4 Empowered Palis Crystal (+ 5)
+             1 Palis Crystal Block
+             1 Fish
+             1 Cobalt
+             1 Blue Slime Crystal
+             1 Prismarine
+        4 Glowstone
+        2 Electronic Circuit
+             2 Iron Plates
+             12 Insulated Copper Cable
+             4 Redstone
+    2 Electrical Motor
+        4 Coils
+            32 Copper Cable
+        4 Tin Item Casings
+    1 Advanced Machine Casings
+        4 Steel Plates
+        2 Carbon Plates
+            16 Coal
+        2 Advanced Alloy
+            3 Iron Plates
+            3 Bronze Plates
+            3 Tin Plates
+        1 Basic Machine Casing
+            8 Iron Plates
+    1 Luminator (+7)
+        1 Tin Cable
+        1 Insulated Copper Cable
+        2 Iron Item Casing
+    1 Reinforced Glass (+6)
+        2 Advanced Alloy
+            3 Iron Plates
+            3 Bronze Plates
+            3 Tin Plates
+    2 Iron Plates
+
+Replicator
+    3 Teleporters
+    2 HV-Transformer
+        4 2x Insulated Gold Cable
+        1 Basic Electric Circuit
+            6 Insulated Copper Cable
+            2 Redstone
+            1 Iron Plate
+        Advanced RE-Battery
+            5 Bronze Item Casings
+                2,5 Bronze Ingots
+            2 Insulated Copper Cable
+            1 Sulfur Dust
+            1 Lead Dust
+        MV-Transformer
+            2 Insulated Copper Cable
+            1 Basic Machine Casing
+                8 Iron Plates
+    1 MFE
+        4 Energy Crystal
+            36 Energium Dust
+                20 Redstone
+                16 Diamond Dust
+        4 2x Insulated Gold Cable
+        1 Basic Machine Casing
+            8 Iron Plates
+    2 Reinforced Stone
+    1 Reinforced Glass (+6)
+        2 Advanced Alloy
+            3 Iron Plates
+            3 Bronze Plates
+            3 Tin Plates
