@@ -510,3 +510,27 @@ Replicator
             3 Iron Plates
             3 Bronze Plates
             3 Tin Plates
+
+Pattern Storage // NOT DONE
+    3 Reinforced Stone
+    2 Discs
+    2 Mining Laser
+    1 Advanced Circuit
+        4 Empowered Restonia Crystal (+5)
+            1 Restonia Crystal Block
+            1 Garnet
+            1 Rose Red
+            1 Ardite
+            1 Resonant Redstone Crystal
+        2 Empowered Palis Crystal (+ 7)
+             1 Palis Crystal Block
+             1 Fish
+             1 Cobalt
+             1 Blue Slime Crystal
+             1 Prismarine
+        4 Glowstone
+        2 Electronic Circuit
+             2 Iron Plates
+             12 Insulated Copper Cable
+             4 Redstone
+    1 Modular Storage
