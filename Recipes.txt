@@ -171,9 +171,7 @@ Diesel Generator
 
 
         Iron Casing
-    4 iron ingots
-    4 black quartz
-    1 advanced machine Casing
+    
         4 steel plates
         2 carbon plates
             16 coal
@@ -480,6 +478,45 @@ Scanner
 
 Replicator
     3 Teleporters
+        12 Advanced Circuit
+            48 Empowered Restonia Crystal(+6)
+                6 Restonia Crystal Block
+                6 Garnet
+                6 Rose Red
+                6 Ardite
+                6 Resonant Redstone Crystal 
+            24 Empowered Palis Crystal (+3)
+                3 Palis Crystal Block
+                3 Fish
+                3 Cobalt
+                3 Blue Slime Crystal
+                3 Prismarine
+            24 Glowstone
+            12 Electronic Circuit
+                12 Iron Plates
+                72 Insulated Copper Cable
+                24 Redstone
+        6 Glass Fiber Cable
+            6 Glass
+            2 Energium Dust
+                5 Redstone
+                4 Diamond Dust
+                    4 Diamonds
+            1 Silver Dust
+        3 Diamond
+        3 advanced machine Casing
+            12 steel plates
+            6 carbon plates
+                48 coal
+            6 advanced alloy
+                9 iron plates
+                9 bronze plates
+                9 tin plates
+            3 basic machine casing
+                24 iron plates 
+        3 Frequency Transmitter
+            1 Copper Cable
+            1 Electronic Circuit
     2 HV-Transformer
         4 2x Insulated Gold Cable
         1 Basic Electric Circuit
